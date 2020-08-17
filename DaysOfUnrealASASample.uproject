@@ -26,6 +26,24 @@
 				"Win64",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "AzureSpatialAnchors",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens",
+				"Android",
+				"iOS"
+			]
+		},
+		{
+			"Name": "AzureSpatialAnchorsForWMR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"HoloLens"
+			]
 		}
 	]
 }
