@@ -2,7 +2,7 @@
 
 Azure Spatial Anchors Sample App for Unreal. Created from [Unreal Mixed Reality Template](https://github.com/Yonet/30DaysOfUnrealEngine).
 
-For more info on [Azure Spatial Anchors](https://docs.microsoft.com/en-us/azure/spatial-anchors/?WT.mc_id=github-unrealasasample-ayyonet) and [Unreal Mixed Reality Development for HoloLens 2](https://docs.microsoft.com/en-us/windows/mixed-reality/unreal-development-overview?WT.mc_id=github-unrealasasample-ayyonet) see the links below:
+For more info on [Azure Spatial Anchors](https://docs.microsoft.com/azure/spatial-anchors/?WT.mc_id=spatial-0000-ayyonet) and [Unreal Mixed Reality Development for HoloLens 2](https://docs.microsoft.com/windows/mixed-reality/unreal-development-overview?WT.mc_id=spatial-0000-ayyonet) see the links below:
 
 ## Unreal Mixed Reality:
 
